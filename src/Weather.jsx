@@ -52,7 +52,7 @@ export default function Weather({ updateinfo }) {
             <TextField
                 required
                 id="city"
-                label="City N ame"
+                label="City Name"
                 defaultValue=""
                 variant='outlined'
                 value={city}
